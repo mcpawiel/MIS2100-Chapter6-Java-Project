@@ -10,4 +10,9 @@ public class SimpleMath {
 		return  numerator / demoninator;
 	
 	}
+	  
+	  double Multiply(double number1, double number2) {
+		  return number1*number2;
+	  }
+
 }
